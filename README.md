@@ -39,7 +39,7 @@
 ---
 
 <div align="center">
- <img src="https://raw.githubusercontent.com/olegarioojv/olegarioojv/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+ <img src="https://raw.githubusercontent.com/olegarioojv/olegariojv/output/snake.svg" alt="Snake animation" />
 </div>
 
 
