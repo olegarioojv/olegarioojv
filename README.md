@@ -39,8 +39,7 @@
 ---
 
 <div align="center">
-  <h1>🐍 Snake contrib graph</h1>
-  <img src="https://raw.githubusercontent.com/olegarioojv/olegarioojv/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+ <img src="https://raw.githubusercontent.com/olegarioojv/olegarioojv/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 
