@@ -1,4 +1,3 @@
-Sbake.yml:
 name: Generate snake animation
 
 on:
