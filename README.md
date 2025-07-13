@@ -11,7 +11,7 @@
 <h1 align="center"> Tecnologias que uso e estudo </h1>
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://skillicons.dev/icons?i=php,html,css,js,ts,react,nextjs,nodejs,tailwind,mysql,git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,html,css,bootstrap,mysql,php,js,ts,react,nextjs,nodejs,tailwind" />
 </div>
 
 ---
