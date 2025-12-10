@@ -29,15 +29,6 @@
 
 ---
 
-<div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-  <a href="https://beacons.ai/olegarioojv" style="display: flex; gap: 20px;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=olegarioojv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olegarioojv&layout=compact&langs_count=10&theme=dark"/>
-  </a>
-</div>
-
----
-
 <div align="center">
  <img src="https://raw.githubusercontent.com/olegarioojv/olegariojv/output/snake.svg" alt="Snake animation" />
 </div>
